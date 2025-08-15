@@ -106,8 +106,7 @@ const Index = () => {
                 <h1 className="font-calligraphy text-6xl md:text-7xl leading-none text-primary select-none">Miftah Ghalbi</h1>
                 <h2 className="font-display text-2xl md:text-3xl tracking-wide">Video Editor | Graphic Designer | Template Specialist</h2>
                 <p className="text-muted-foreground max-w-xl">
-                  Retro-modern, bold, dan rapi. Saya membantu brand dan kreator membangun visual yang kuat melalui
-                  editing video, desain grafis, dan pembuatan template yang efisien.
+                  Menciptakan visual yang menarik perhatian dan meninggalkan kesan mendalam. Dari video editing hingga desain grafis, saya siap membantu brand dan kreator menghadirkan karya yang estetis, profesional, dan tepat sasaran.
                 </p>
                 <div className="flex items-center gap-4">
                   <Button variant="hero" size="lg" onClick={scrollToPortfolio} className="hover-scale">
@@ -143,8 +142,7 @@ const Index = () => {
               <div>
                 <h2 className="text-3xl md:text-4xl font-display tracking-wide">About Me</h2>
                 <p className="mt-4 text-muted-foreground">
-                  Saya Miftah Ghalbi, kreator visual yang fokus pada Video Editing, Graphic Design, dan Template & Motion Graphics.
-                  Gaya saya tegas dan bersih, dengan dominasi warna hitam dan merah yang konsisten.
+                  Aku adalah seorang graphic designer dan video editor yang berfokus pada menciptakan karya visual kreatif, mulai dari desain grafis, fotografi, videografi, hingga pembuatan konten digital. Dengan pengalaman di berbagai proyek, aku terbiasa menggabungkan ide segar dan eksekusi profesional untuk menghasilkan karya yang tidak hanya menarik secara visual, tetapi juga memiliki nilai cerita yang kuat.
                 </p>
                 <a
                   href="CV-MIFTAHGHALBI.pdf"
